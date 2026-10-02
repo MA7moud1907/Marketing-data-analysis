@@ -99,6 +99,3 @@ _Add screenshots of each dashboard page here:_
 
 ```
 
-## 🔍 Key Insights
-
-
