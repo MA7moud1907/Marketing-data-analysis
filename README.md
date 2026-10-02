@@ -92,22 +92,13 @@ KPI cards for Average ROI, CPC, cost per result, conversion rate, revenue per cl
 
 _Add screenshots of each dashboard page here:_
 
-```
-![Overview](images/overview.png)
-![Marketing Dashboard](images/dashboard.png)
-![Efficiency & Customer Insights](images/insights.png)
+...
+<img width="1157" height="652" alt="marketing1" src="https://github.com/user-attachments/assets/7a086456-059d-4005-8d16-9703c5205b34" />
+<img width="1157" height="655" alt="Marketing 2" src="https://github.com/user-attachments/assets/164fcb50-12f6-45d5-a8df-799d37a78f88" />
+
+
 ```
 
 ## 🔍 Key Insights
 
-_Fill these in from your dashboard. Examples of what to look for:_
 
-- Which platform has the highest profit and ROAS?
-- Which months or years show peaks and dips in revenue?
-- How does profit margin differ across subscription tiers?
-- Which campaigns exceed ROI > 3?
-
-## 👤 Author
-
-**Your Name**
-[LinkedIn](#) · [GitHub](#)
